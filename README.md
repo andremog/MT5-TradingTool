@@ -6,4 +6,4 @@ MetaTrader 5 trading tools. Get access to all of the expert advisors, indicators
 
 ## TradingViewLines
 
-!{TradingView](https://charts.mql5.com/24/248/eurusd-m1-best-forex-trading-tradingviewlines.png)
+![TradingView](https://charts.mql5.com/24/248/eurusd-m1-best-forex-trading-tradingviewlines.png)
