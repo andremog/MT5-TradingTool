@@ -818,8 +818,8 @@ void CTrade::ClearStructures(void)
 //+------------------------------------------------------------------+
 bool CTrade::IsStopped(const string function)
   {
-  // if(!IsStopped())
-    //  return(false);
+   if(!::IsStopped())
+     return(false);
 //--- MQL5 program is stopped
 if(TRADE_DEBUG)   PrintFormat("%s: MQL5 program is stopped. Trading is disabled",function);
    m_result.retcode=TRADE_RETCODE_CLIENT_DISABLES_AT;
