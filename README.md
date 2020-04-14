@@ -3,3 +3,7 @@ MetaTrader 5 trading tools. Get access to all of the expert advisors, indicators
 ## MarketScanner
 
 ![HeatMap](https://charts.mql5.com/24/248/eurusd-m1-best-forex-trading-fx4btc.png)
+
+## TradingViewLines
+
+!{TradingView](https://charts.mql5.com/24/248/eurusd-m1-best-forex-trading-tradingviewlines.png)
